@@ -1,0 +1,5 @@
+city = input('Digite o lugar em que nasceu: ')
+city = city.strip()
+city = city.lower()
+print(city[:5])
+print(city[:5] == 'santo')

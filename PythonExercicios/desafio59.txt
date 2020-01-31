@@ -1,0 +1,37 @@
+
+sair = 0
+menu2 = 1
+while sair == 0: 
+  n1 = int(input('Digite um número: '))
+  n2 = int(input('Digite outro número: '))
+  menu2 = 1
+  while menu2 == 1:
+    menu = int(input('''======Menu======
+[1] - Somar
+[2] - Multiplicar
+[3] - Maior
+[4] - Novos números
+[5] - Sair
+: 
+'''))
+    if menu == 1:
+      result = n1 + n2
+      print('A soma dos números é: {}'.format(result))
+      sair = 5
+    if menu == 2:
+      result = n1 * n2
+      print('A multiplicação dos números é: {}'.format(result))
+      sair = 5
+    if menu == 3:
+      if n1 > n2:
+        print('Número um é maior: {}'.format(n1))
+      else:
+        print('Número dois é maior: {}'.format(n2))
+        sair = 5
+    if menu == 4:
+      menu2 = 2
+      sair = 0
+    if menu == 5:
+      menu2 = 2
+      sair = 5
+print('FIM!')

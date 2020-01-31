@@ -1,0 +1,12 @@
+#CONDIÇÕES ANINHADAS >> UMA CONDIÇÃO DENTRO DE OUTRA CONDIÇÃO! 
+
+n1 = int(input('Digite o primeiro número: '))
+n2 = int(input('Digite o segundo número: '))
+
+ 
+if n1 > n2:
+  print('Número um maior que número dois: {}'.format(n1))
+elif n2 > n1:
+  print('Número dois maior que todos: {}'.format(n2))
+else: 
+  print('Não existe número maior, os dois são iguais: {} & {}'.format(n1,n2))  

@@ -1,0 +1,18 @@
+from random import randint
+
+
+computer = 0
+player = 1
+i = 0
+while computer != player:
+  computer = randint(1,10)
+  player = int(input('Digite seu palpite entre 0 e 10: '))
+  print('Você pensou no número: {}'.format(player))
+  print('O computador pensou no número: {}'.format(computer))
+  if player == computer:
+    print('Você ganhou!!')
+    i += 1
+    print('Você precisou de {} palpites para vencer!'.format(i))
+  else:
+    i += 1
+    print('Você perdeu!')

@@ -1,0 +1,8 @@
+maior = 0
+i=0
+while i < 3:
+  n = int(input('Digite o número um: '))
+  if n > maior:
+    maior = n
+  i += 1
+print('Maior número é: {}'.format(maior))    

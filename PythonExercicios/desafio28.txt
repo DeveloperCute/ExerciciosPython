@@ -1,0 +1,13 @@
+import random
+
+num = random.randint(0,6)
+x = int(input('Digite seu palpite: '))
+print(num)
+print(x)
+
+if x == num:
+  print('Parabéns você ganhou!')
+else:
+  print('Errou o palpite, tente novamente!')
+
+print('-------FIM------')

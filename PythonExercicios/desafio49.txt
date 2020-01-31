@@ -1,0 +1,7 @@
+
+print('=='*10,'TABUADA!')
+n = int(input('Digite o número que deseja mostrar a tabuada!'))
+print('A tabuada do número {} é:'.format(n))
+for i in range(0,11):
+  result = i * n
+  print('{} X {} = {}'.format(n, i, result))

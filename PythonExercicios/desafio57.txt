@@ -1,0 +1,11 @@
+s = 0
+while s == 0:
+  sx = str(input('Digite seu sexo: ')).upper()
+  if sx == 'M':
+    print('Masculino!')
+    s = 1
+  elif sx == 'F':
+    print('Feminino!')
+    s = 1
+  else:
+    print('Código errado! Digite novamente: ')

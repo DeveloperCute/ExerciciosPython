@@ -1,0 +1,13 @@
+#CONDIÇÕES ANINHADAS >> UMA CONDIÇÃO DENTRO DE OUTRA CONDIÇÃO! 
+
+valorCasa = float(input('Digite o valor da casa: R$ '))
+salario = float(input('Digite o seu salário: R$ '))
+anosPgt = int(input('Quantos anos quer pagar a casa: R$ '))
+
+
+prest = valorCasa / (anosPgt * 12)
+salarioR = salario - (0.3 * salario)
+if prest > salarioR:
+  print('Não é possível conceder o empréstimo!')
+else:
+  print('O valor da prestação mensal é: {:0.2f}'.format(prest))

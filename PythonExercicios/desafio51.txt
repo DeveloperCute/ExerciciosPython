@@ -1,0 +1,9 @@
+first_term = int(input('Digite o primeiro termo da PA: '))
+razao = int(input('Digite a razão da PA: '))
+lista = []
+pa = first_term
+for i in range(0, 10):
+  pa = razao + pa
+  lista.append(pa-razao)
+
+print(lista)

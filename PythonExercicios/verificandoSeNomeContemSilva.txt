@@ -1,0 +1,4 @@
+name = input('Digite seu nome completo: ')
+name = name.lower()
+print(name)
+print('Sem nome tem silva:','silva' in name)

@@ -1,0 +1,34 @@
+import random
+
+jokey = ['Pedra', 'Papel', 'Tesoura']
+pc = jokey[random.randrange(len(jokey))]
+
+play1 = str(input('Digite seu palpite: \n'
+'Pedra \n Papel \n Tesoura: \n'))
+
+if play1 == 'Pedra' and pc == 'Pedra':
+  print('Empate!')
+elif play1 == 'Pedra' and pc == 'Papel':
+  print('Computador ganhou!')
+  print('{} ganha de {}'.format(pc, play1))
+elif play1 == 'Pedra' and pc == 'Tesoura':
+  print('Player 1 ganhou!')
+  print('{} ganha de {}'.format(play1, pc))
+elif play1 == 'Papel' and pc == 'Pedra':
+  print('Player 1 ganhou!')
+  print('{} ganha de {}'.format(play1, pc))
+elif play1 == 'Papel' and pc == 'Papel':
+  print('Empate!')
+elif play1 == 'Papel' and pc == 'Tesoura':
+  print('Computador ganhou!')
+  print('{} ganha de {}'.format(pc, play1))
+elif play1 == 'Tesoura' and pc == 'Pedra':
+  print('Computador ganhou!')
+  print('{} ganha de {}'.format(pc, play1))
+elif play1 == 'Tesoura' and pc == 'Papel':
+  print('Player 1 ganhou!')
+  print('{} ganha de {}'.format(play1, pc))
+elif play1 == 'Tesoura' and pc == 'Tesoura':
+  print('Empate!')
+else:
+  print('Error! Tente novamente!')

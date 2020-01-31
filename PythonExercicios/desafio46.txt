@@ -1,0 +1,10 @@
+import time
+
+
+print('CONTAGEM REGRESSIVA')
+time.sleep(1)
+for i in range(10, -1, -1):
+  print(i)
+  time.sleep(1)
+
+print('BOOOM!')

@@ -1,0 +1,26 @@
+valorPago = float(input('Qual valor do produto? '))
+cond = int(input('===' * 10 + '\n'
+'Tabela de condição de pagamento: \n'
+'Digite 1 para à vista dinheiro/cheque: 10% desconto: \n'
+'Digite 2 para à vista no cartão: 5% de desconto: \n'
+'Digite 3 em até 2x no cartão: preço normal: \n'
+'Digite 4 em 3x ou mais no cartão: 20% de juros: \n'
+))
+
+
+if cond == 1:
+  desconto = valorPago - (0.1 * valorPago)
+  print('Valor a ser pago é: {:0.2f}'.format(desconto))
+elif cond == 2: 
+  desconto = valorPago - (0.05 * valorPago)
+  print('Valor a ser pago é: {:0.2f}'.format(desconto))
+elif cond == 3:
+  parcela = valorPago / 2
+  print('Valor total a ser pago: {:0.2f} com duas parcelas de {:0.2f}'.format(valorPago, parcela))
+elif cond == 4:
+  juros = 0.2 * valorPago
+  novoValor = juros + valorPago 
+  parcela = novoValor / 3
+  print('Valor sem juros: {:0.2f}. \n Total dos juros: {:0.2f} \n Valor total da compra: {:0.2f} \n Total de 3 parcelas no valor de: {:0.2f}'.format(valorPago, juros, novoValor, parcela))
+else: 
+  print('Ocorre um erro, tente novamente mais tarde!')

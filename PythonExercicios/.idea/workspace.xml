@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a055258-966e-4f47-9ae0-46c42ca7f244" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VPTDZisCefmH9SeFIuI5KNvEiV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Marccus Gabriel\PycharmProjects\PythonExercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula15">
+    <configuration name="aula15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio63" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Users\Marccus Gabriel\PycharmProjects\PythonExercicios\desafio63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio64" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio64.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio65" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio65.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula15" />
+        <item itemvalue="Python.desafio65" />
+        <item itemvalue="Python.desafio64" />
+        <item itemvalue="Python.desafio63" />
+        <item itemvalue="Python.ex001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a055258-966e-4f47-9ae0-46c42ca7f244" name="Default Changelist" comment="" />
+      <created>1577153613142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577153613142</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="981" height="268" key="GridCell.Tab.0.bottom" timestamp="1580512514034">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728/-1024.0.1024.728@-1024.0.1024.728" timestamp="1580512514034" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state width="1345" height="268" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578013844757" />
+    <state width="981" height="268" key="GridCell.Tab.0.center" timestamp="1580512514034">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="268" key="GridCell.Tab.0.center/0.0.1366.728/-1024.0.1024.728@-1024.0.1024.728" timestamp="1580512514034" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820569" />
+    <state width="1345" height="268" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578013844757" />
+    <state width="981" height="268" key="GridCell.Tab.0.left" timestamp="1580512514033">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="268" key="GridCell.Tab.0.left/0.0.1366.728/-1024.0.1024.728@-1024.0.1024.728" timestamp="1580512514033" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820569" />
+    <state width="1345" height="268" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578013844757" />
+    <state width="981" height="268" key="GridCell.Tab.0.right" timestamp="1580512514034">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="268" key="GridCell.Tab.0.right/0.0.1366.728/-1024.0.1024.728@-1024.0.1024.728" timestamp="1580512514034" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state width="1345" height="268" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578013844757" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580174820570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580174820570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580174820570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580174820570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-1024.0.1024.728@0.0.1366.728" timestamp="1580174820570" />
+    <state x="-767" y="180" key="com.intellij.ide.util.TipDialog" timestamp="1580511520288">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-767" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1024.0.1024.728@-1024.0.1024.728" timestamp="1580511520288" />
+    <state x="-1023" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@-1366.0.1366.728" timestamp="1579961077457" />
+    <state x="343" y="180" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1578009968608" />
+  </component>
+</project>

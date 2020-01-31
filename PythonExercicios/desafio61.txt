@@ -1,0 +1,7 @@
+p1 = int(input('Digite o primeiro termo da PA: '))
+r = int(input('Digite a razão da PA: '))
+i = 0
+while i < 10:
+  p1 += r
+  print(p1-r, end=' ')
+  i += 1

@@ -1,0 +1,34 @@
+-Desconto 5% do preço do produto: 
+	preco = float(input('Digite o preço do produto: '))
+
+
+	novoP = preco - (0.05 * preco)
+
+
+	print('O produto custava {}R$ e agora com desconto de 5% custa: {:.1f} R$'.format(preco, novoP))
+
+-Aumento salário 15%: 
+	oldSalario = float(input('Digite o preço do salário: '))
+
+	newSalario = oldSalario + (oldSalario * 0.15)
+
+	print('O salario de {:.1f} R$ com aumento de 15% é: {:.1f} R$'.format(oldSalario, newSalario))
+
+-Conversor Graus para Farheint:
+
+	g = float(input('Digite o valor em graus que deseja converter: '))
+
+	f = (g * 9/5) + 32
+
+
+	print('O valor {}°C foi para {}°F'.format(g,f))
+
+-Preço do aluguel de um carro: 
+	kms = float(input('Digite a quantidade de Km rodados: '))
+
+	day = int(input('Digite a quantidade de dias de aluguel do carro: '))
+
+
+	preco = (60 * day) + (0.15 * kms)
+
+print('Preço do alguel é: {:.2f} reais'.format(preco))

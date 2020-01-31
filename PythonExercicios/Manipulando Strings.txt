@@ -1,0 +1,14 @@
+frase = 'Marccus Gabriel'
+print(len(frase)) #Quantidade de caracteres
+print(len(set(frase))) #Quantidade de caracteres em contar os que se repetem
+print('Marccus' in frase)
+print(frase.upper()) #Coloca tudo em Maiúsculo
+print(frase.lower()) #Coloca tudo em minúsculo
+print(frase.capitalize()) #Coloca apenas a primeira letra em Maiúsculo e o resto em minúsculo
+spacos = '    Marccus Gabriel'
+print(spacos.strip()) #Remove espaços excedentes | r.strip remove os espaços do lado direito | l.strip remove espaços do lado esquerdos
+print(frase.split()) #Quebra a String e gera uma lista para cada palavra
+print(''.join(frase)) #Junta String de listas separadas, e gera somente uma lista
+print(frase.count('x')) #Conta quantas vezes aparece a letra requisitada
+print(frase.find('')) #Monstra a posição do caracter requisitado
+print(frase.replace('Marccus', 'João')) #Troca a palavra solicitada

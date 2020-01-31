@@ -1,0 +1,24 @@
+import random
+
+
+    
+def cub_magic():
+    num = 0
+    while num < 20:
+        x = list(range(1,10))    
+        random.shuffle(x)
+        num += 1
+    
+        c1 = x[0] + x[1] + x[2]
+        c2 = x[3] + x[4] + x[5]
+        c3 = x[6] + x[7] + x[8]
+    
+        cond = [c1, c2, c3]
+        print(cond)
+        if len(set(cond)) < 2:
+            print(x)
+        else:
+            print('Trotos')
+            
+
+cub_magic()
